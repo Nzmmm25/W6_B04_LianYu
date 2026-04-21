@@ -1,1 +1,1 @@
-# W6_B04_LianYu
+# W6_TryHackMe_LianYu
